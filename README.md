@@ -1,6 +1,10 @@
 # Zohaib Yasin's Portfolio Website
 
 This is a simple portfolio website created by Zohaib Yasin using HTML, CSS, and JavaScript.
+![Jamacho Heigh](https://github.com/zohiaby/Portfolio-Website/assets/121012940/7d60fd79-1695-496d-80e1-7213f20238fa)
+![Screenshot from 2024-02-24 15-56-41](https://github.com/zohiaby/Portfolio-Website/assets/121012940/17d17cca-476e-4c40-9887-be0ca2a11cf4)
+![Screenshot from 2024-02-24 15-57-09](https://github.com/zohiaby/Portfolio-Website/assets/121012940/86e3af11-78ab-4eed-97df-0d1433e252ba)
+![Screenshot from 2024-02-24 15-57-27](https://github.com/zohiaby/Portfolio-Website/assets/121012940/10482448-a2ea-48d6-b1c2-030f80f75c7d)
 
 ## How to Run
 
